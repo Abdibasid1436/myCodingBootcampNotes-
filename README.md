@@ -31,6 +31,12 @@ Shows up in repository
 to pull the full repository, this is how you start and should only do once
 ## git status
 Diagnostics, shows where you are currently at
+ ## special directories:
+
+ ~/ - User directory
+ ../ - one directory up (parent directory)
+ ./ - current directory
+ / -  root directory(c drive)
 
 
 Add CommentCollapse 
